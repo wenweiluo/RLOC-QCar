@@ -3,12 +3,12 @@
 To verify the control performances of the developed approximate RL-based control policy, trajectory tracking experiments are implemented by a car-like vehicle named as QCar (Quanser self-driving car). The results show that the proposed control scheme possesses well optimization and trajectory tracking performance under input constraints.
 
 
-### Experimental results
+### Round trajectory
 <div align=center>
 <video src="https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/606eed03-f6a8-473a-bde5-cb3677f01980"></video>
 </div>
 
-### The revised experiment
+### Rounded rectangle trajectory
 <div align=center>
 <video src="https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/70496b1a-1fb9-477a-bb1e-497439ef1a09"></video>
 </div>
