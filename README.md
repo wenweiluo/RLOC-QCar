@@ -1,7 +1,6 @@
-# Experiment video under the proposed RL-based optimal tracking control of a car-like vehicle
-### Introduction
-To verify the control performances of the developed approximate RL-based control policy, trajectory tracking experiments are implemented by a car-like vehicle named as QCar (Quanser self-driving car). The results show that the proposed control scheme possesses well optimization and trajectory tracking performance under input constraints.
-
+# Put forward an online reinforcement learning-based control strategy to address the approximate optimal trajectory tracking control problem for a car-like vehicle with input saturation (Under Review)
+### Experiment video under the proposed RL-based optimal tracking control of a car-like vehicle
+To verify the control performances of the developed approximate RL-based control policy, trajectory tracking experiments are implemented by a car-like vehicle named as [QCar](https://www.quanser.com/products/qcar/) (Quanser self-driving car). The results show that the proposed control scheme possesses well optimization and trajectory tracking performance under input constraints.
 
 ### Round trajectory
 <div align=center>
