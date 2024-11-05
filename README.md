@@ -4,19 +4,19 @@ To verify the control performances of the developed approximate RL-based control
 
 ### Round trajectory
 <div align=center>
-<video src="https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/606eed03-f6a8-473a-bde5-cb3677f01980"></video>
+<video src="https://private-user-images.githubusercontent.com/59788826/382994747-037814b3-51f6-4423-8aed-0cb77e36e03a.mp4"></video>
 </div>
 
 ### Rounded rectangle trajectory
 <div align=center>
-<video src="https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/70496b1a-1fb9-477a-bb1e-497439ef1a09"></video>
+<video src="https://private-user-images.githubusercontent.com/59788826/382994759-393862ee-d9b2-4675-93cf-35e69fc95cb2.mp4"></video>
 </div>
 
 ### Long time experiment
 <div align=center>
-<img src="https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/6e7537cb-b777-4b1c-a63c-9d269212205b" width="400" height="350">
-<img src="https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/8537a34f-000a-4aa1-b9a3-939b9aaff227" width="400" height="350">
-<img src="https://github.com/keepuself/RL-OC-QCar-2022/assets/16040172/658690bd-cd02-4e6d-8df2-eaaf13969914" width="400" height="350">  
+<img src="https://private-user-images.githubusercontent.com/59788826/382994881-32505c31-01b6-4b25-a42c-b243c69431b8.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA3NzczMjYsIm5iZiI6MTczMDc3NzAyNiwicGF0aCI6Ii81OTc4ODgyNi8zODI5OTQ4ODEtMzI1MDVjMzEtMDFiNi00YjI1LWE0MmMtYjI0M2M2OTQzMWI4LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTA1VDAzMjM0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUxYTViZTgzZjYyMmM1MDA0ZTUzODk3ODkxNzY4YjVmNmYzYmJjODc1ZjE0ZGY5YjFkMGFmYzQ3N2U4ZGI5OGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dUnWImAFhD9U0osLxs8kYYMvfKvvHzDfnuOv3iv4K2Y" width=45%>
+<img src="https://private-user-images.githubusercontent.com/59788826/382994894-6fdd632f-c544-455e-89e8-09ebde6afb45.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA3NzczMjYsIm5iZiI6MTczMDc3NzAyNiwicGF0aCI6Ii81OTc4ODgyNi8zODI5OTQ4OTQtNmZkZDYzMmYtYzU0NC00NTVlLTg5ZTgtMDllYmRlNmFmYjQ1LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTA1VDAzMjM0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3ZjRhN2ZiYjY3MDkwNzdkMTg4ODQ4MmU1MDE2NDI4YWI3OTk3ZTc4MTc1ZWRhZDZkOWE4ZmJkNzc2MTkxNTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._LCWEsEMfYm5viwdmzzzhobJ8SwEGZ_O7gceQ7cWSD8" width=45%>
+<img src="https://private-user-images.githubusercontent.com/59788826/382994900-7b6338df-9652-4073-bd26-655f5a3812ff.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA3NzczMjYsIm5iZiI6MTczMDc3NzAyNiwicGF0aCI6Ii81OTc4ODgyNi8zODI5OTQ5MDAtN2I2MzM4ZGYtOTY1Mi00MDczLWJkMjYtNjU1ZjVhMzgxMmZmLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTA1VDAzMjM0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFiZjY4NDE1Y2IwMGY1NzIzZDZmYjYyZWMwYzU1MDA2NTM0YWJjMGYxMTliYjNjYWQ5NTI0N2ZiYmNhZjllNTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6yTyMfGDWmLgl5O0JXGktFXt9WMAEQ5TJ1yxEenXloE" width=45%>  
 </div>
 
 
